@@ -1,0 +1,8 @@
+{
+    "idf.portWin": "COM15",
+    "files.associations": {
+        "esp_lcd_touch_ft5x06.h": "c",
+        "esp_lcd_touch.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe"
+}

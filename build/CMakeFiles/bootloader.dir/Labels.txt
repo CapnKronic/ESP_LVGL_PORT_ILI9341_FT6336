@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/DEV/touchscreen/build/CMakeFiles/bootloader
+D:/DEV/touchscreen/build/CMakeFiles/bootloader.rule
+D:/DEV/touchscreen/build/CMakeFiles/bootloader-complete.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/DEV/touchscreen/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
